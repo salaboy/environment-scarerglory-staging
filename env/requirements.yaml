@@ -4,7 +4,7 @@ dependencies:
   version: 0.0.25
 - name: conference-site
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.15
+  version: 0.0.16
 - name: conference-sponsors
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.21
